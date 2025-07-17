@@ -2,12 +2,13 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout do repositório
         uses: actions/checkout@v3
@@ -27,4 +28,3 @@ jobs:
           author_email: github-actions@github.com
           message: "Atualiza cobrinha 🐍"
           add: "dist"
-          branch: output   
