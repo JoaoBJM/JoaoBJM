@@ -53,3 +53,8 @@
 ---
 
 <p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
+
+### 🐍 Snake dos meus commits
+
+![snake gif](https://github.com/joaoBJM/joaoBJM/blob/output/dist/github-contribution-grid-snake.gif)
+
