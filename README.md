@@ -48,7 +48,7 @@
 -  Desenvolvedor back-end - Aprimorando meus conhecimentos em python no momento
 -  Sempre buscando aprender novas tecnologias.
 -  Curioso por desenvolvimento backend e automações.
--  Me pergunte sobre lógica, Python ou como começar na programação.
+
 
 ---
 
